@@ -1,0 +1,17 @@
+body{
+    padding: 50px;
+    background-color: #e0e5ec;
+    font-family: sans-serif;
+}
+
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: 8px 8px 16px #000,
+    -8px -8px 16px #fff;
+    border-radius: 25px;
+}
+.form-group{
+    margin-bottom: 30px;
+}
